@@ -1,0 +1,46 @@
+# Rollercoaster Height Check
+
+This repository contains a simple Python script to determine if a person is tall enough to ride a rollercoaster. The script prompts the user to enter their height in centimeters and then checks if the height meets the minimum requirement to ride the rollercoaster.
+
+## Features
+
+- Prompts the user to enter their height in centimeters.
+- Checks if the entered height is greater than the minimum required height.
+- Provides appropriate messages based on the height entered.
+- Handles invalid input gracefully.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed on your machine.
+
+### Running the Script
+1. Clone this repository to your local machine:
+    
+   https://github.com/Mannath/python.git
+
+2. Run the script:
+    ```sh
+    python rollercoaster_height_check.py
+    ```
+
+### Example
+
+When you run the script, you will see output similar to the following:
+
+```sh
+Welcome to the rollercoaster!
+What is your height in cm? 130
+You can ride the rollercoaster!
+
+
+```sh
+Welcome to the rollercoaster!
+What is your height in cm? 110
+You can't ride the rollercoaster.
+
+```sh
+Welcome to the rollercoaster!
+What is your height in cm? abc
+Invalid input! Please enter a valid number.
