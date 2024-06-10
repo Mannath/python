@@ -1,1 +1,38 @@
-This is the 100day of code - Python 100 prkects in 100 days
+# 100 Days of Code - Python: 100 Projects in 100 Days
+
+Welcome to the "100 Days of Code" challenge repository! This repository contains 100 Python projects that I have created as part of the "100 Days of Code" challenge.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Projects](#projects)
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+The "100 Days of Code" is a self-improvement challenge to code for at least an hour every day for 100 days. This repository documents my journey and showcases 100 different Python projects that I developed during this period. Each project focuses on improving different skills and concepts in Python programming.
+
+## Projects
+
+Here is a list of the projects completed so far:
+
+1. Day 1: Band Name Generator
+2. Day 2: Tip Calculator
+3. Day 3: Treasure Island Adventure Game
+
+Each project has its own folder containing the source code and a brief description of what it does.
+
+## Requirements
+
+- Python 3.x
+
+## Usage
+
+To run any of the projects, follow these steps:
+
+1. **Clone the repository**:
+sh
+git@github.com:Mannath/python.git
