@@ -31,9 +31,7 @@ Welcome to the Rollercoaster Ticket Calculator! This Python script helps you det
 ## Usage
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/rollercoaster-ticket-calculator.git
-   cd rollercoaster-ticket-calculator
+
 Run the script:
 
 2.Run the script:
